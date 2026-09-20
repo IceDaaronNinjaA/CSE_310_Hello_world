@@ -6,7 +6,7 @@ A single like of code for printing Hello World in the terminal
 
 Steps to build and/or run the software:
 
-1. pull up the code in your ICE of chose. make sure you python instaled 
+1. pull up the code in your ICE of chose. make sure you have python instaled 
 2. hit the run button
 
 Instructions for using the software:
