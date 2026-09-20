@@ -1,6 +1,6 @@
-# Project Title (Update)
+# Hello World
 
-Add a description of your project here.
+A single like of code for printing Hello World in the terminal
 
 ## Instructions for Build and Use
 
